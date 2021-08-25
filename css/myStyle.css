@@ -120,8 +120,8 @@ footer {
 }
 
 .tampil {
-	width: auto;
-	height: 50%;
+	width: 80%;
+	height: auto;
 	margin: 0px auto;
 	border: 2px solid black;
 	transition: .5s;
