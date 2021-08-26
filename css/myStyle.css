@@ -119,8 +119,17 @@ footer {
 	opacity: 0;
 }
 
+.perbesar {
+	margin: 10px auto;
+	width: 40px;
+	height: auto;
+	background-color: #ffffff;
+	position: relative;
+}
+
+
 .tampil {
-	width: 80%;
+	width: 768px;
 	height: auto;
 	margin: 0px auto;
 	border: 2px solid black;
